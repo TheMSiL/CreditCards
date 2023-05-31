@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/CreditCard/static/css/main.0e8d11b8.css",
-    "main.js": "/CreditCard/static/js/main.ef49e2bb.js",
-    "static/media/amex_logo.svg": "/CreditCard/static/media/amex_logo.e3d94ed28f32c062f8648c1cd6d59a16.svg",
-    "static/media/discover_logo.svg": "/CreditCard/static/media/discover_logo.4c3ebd054bfd21ff0910ac8816b2db04.svg",
-    "static/media/nfc.svg": "/CreditCard/static/media/nfc.049efbeda64d1a5b070abeb929792f33.svg",
-    "static/media/statistic.svg": "/CreditCard/static/media/statistic.0748fb79f942c26918739b9c2db67511.svg",
-    "static/media/ShowCardNumber.svg": "/CreditCard/static/media/ShowCardNumber.2d9fe117354aab178eabc857c9b2612d.svg",
-    "static/media/chip.svg": "/CreditCard/static/media/chip.b15fa1084bdfb7ae7e2359a9ee8a363f.svg",
-    "static/media/cardFlip.svg": "/CreditCard/static/media/cardFlip.4eb9bb8594ba6f559943527d0a20af1d.svg",
-    "static/media/visa_logo.svg": "/CreditCard/static/media/visa_logo.57791101f0dd45a65d90001618a79214.svg",
-    "static/media/mastercard_logo.svg": "/CreditCard/static/media/mastercard_logo.05b90a9b2ef7e40f3e75d0aa2ad98a3c.svg",
-    "static/media/amex_front.svg": "/CreditCard/static/media/amex_front.ba835a5e5d4710304350f74a48a4d881.svg",
-    "static/media/mastercard_front.svg": "/CreditCard/static/media/mastercard_front.bf6037b8e06b81d6fc78e4ce1a8aaa34.svg",
-    "static/media/discover_front.svg": "/CreditCard/static/media/discover_front.e116319fac351f104fe799819a2be2b8.svg",
-    "static/media/visa_front.svg": "/CreditCard/static/media/visa_front.a9093fea44a3bd071b50dbf63c4b9539.svg",
-    "index.html": "/CreditCard/index.html",
-    "static/media/select-arrow-down.svg": "/CreditCard/static/media/select-arrow-down.fc538e440892d7e5f599.svg",
-    "static/media/select-arrow-up.svg": "/CreditCard/static/media/select-arrow-up.8104d5360a206cd50fb3.svg",
-    "main.0e8d11b8.css.map": "/CreditCard/static/css/main.0e8d11b8.css.map",
-    "main.ef49e2bb.js.map": "/CreditCard/static/js/main.ef49e2bb.js.map"
+    "main.css": "/CreditCards/static/css/main.0b5e2427.css",
+    "main.js": "/CreditCards/static/js/main.0927631f.js",
+    "static/media/amex_logo.svg": "/CreditCards/static/media/amex_logo.e3d94ed28f32c062f8648c1cd6d59a16.svg",
+    "static/media/discover_logo.svg": "/CreditCards/static/media/discover_logo.4c3ebd054bfd21ff0910ac8816b2db04.svg",
+    "static/media/nfc.svg": "/CreditCards/static/media/nfc.049efbeda64d1a5b070abeb929792f33.svg",
+    "static/media/statistic.svg": "/CreditCards/static/media/statistic.0748fb79f942c26918739b9c2db67511.svg",
+    "static/media/ShowCardNumber.svg": "/CreditCards/static/media/ShowCardNumber.2d9fe117354aab178eabc857c9b2612d.svg",
+    "static/media/chip.svg": "/CreditCards/static/media/chip.b15fa1084bdfb7ae7e2359a9ee8a363f.svg",
+    "static/media/cardFlip.svg": "/CreditCards/static/media/cardFlip.4eb9bb8594ba6f559943527d0a20af1d.svg",
+    "static/media/visa_logo.svg": "/CreditCards/static/media/visa_logo.57791101f0dd45a65d90001618a79214.svg",
+    "static/media/mastercard_logo.svg": "/CreditCards/static/media/mastercard_logo.05b90a9b2ef7e40f3e75d0aa2ad98a3c.svg",
+    "static/media/amex_front.svg": "/CreditCards/static/media/amex_front.ba835a5e5d4710304350f74a48a4d881.svg",
+    "static/media/mastercard_front.svg": "/CreditCards/static/media/mastercard_front.bf6037b8e06b81d6fc78e4ce1a8aaa34.svg",
+    "static/media/discover_front.svg": "/CreditCards/static/media/discover_front.e116319fac351f104fe799819a2be2b8.svg",
+    "static/media/visa_front.svg": "/CreditCards/static/media/visa_front.a9093fea44a3bd071b50dbf63c4b9539.svg",
+    "index.html": "/CreditCards/index.html",
+    "static/media/select-arrow-down.svg": "/CreditCards/static/media/select-arrow-down.fc538e440892d7e5f599.svg",
+    "static/media/select-arrow-up.svg": "/CreditCards/static/media/select-arrow-up.8104d5360a206cd50fb3.svg",
+    "main.0b5e2427.css.map": "/CreditCards/static/css/main.0b5e2427.css.map",
+    "main.0927631f.js.map": "/CreditCards/static/js/main.0927631f.js.map"
   },
   "entrypoints": [
-    "static/css/main.0e8d11b8.css",
-    "static/js/main.ef49e2bb.js"
+    "static/css/main.0b5e2427.css",
+    "static/js/main.0927631f.js"
   ]
 }
