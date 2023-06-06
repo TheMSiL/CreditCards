@@ -63,6 +63,10 @@ const FrontSide = styled.div`
 	transform: ${props =>
 		props.rotatedCard === 'back' ? 'rotateY(-180deg)' : 'rotateY(0deg)'};
 	transition: transform 2s;
+
+	@media (max-width: 450px) {
+		padding: 18px;
+	}
 `;
 
 const BackSide = styled.div`
@@ -81,6 +85,10 @@ const BackSide = styled.div`
 	transform: ${props =>
 		props.rotatedCard === 'back' ? 'rotateY(0deg)' : 'rotateY(180deg)'};
 	transition: transform 2s;
+
+	@media (max-width: 450px) {
+		height: 194px;
+	}
 `;
 
 const CardHeader = styled.div`
@@ -88,9 +96,17 @@ const CardHeader = styled.div`
 	align-items: center;
 	justify-content: space-between;
 	margin-bottom: 58px;
+
+	@media (max-width: 450px) {
+		margin-bottom: 35px;
+	}
 `;
 
-const NFC = styled.img``;
+const NFC = styled.img`
+	@media (max-width: 450px) {
+		width: 17px;
+	}
+`;
 
 const CardMark = styled.img`
 	transition: transform 1s;
@@ -107,6 +123,10 @@ const CardMiddle = styled.div`
 	align-items: center;
 	justify-content: space-between;
 	margin-bottom: 55px;
+
+	@media (max-width: 450px) {
+		margin-bottom: 15px;
+	}
 `;
 
 const CardNumber = styled.p`
@@ -115,6 +135,11 @@ const CardNumber = styled.p`
 	line-height: 22px;
 	letter-spacing: 0.105em;
 	margin: 0;
+
+	@media (max-width: 450px) {
+		font-size: 16px;
+		line-height: 20px;
+	}
 `;
 
 const Chip = styled.img``;
