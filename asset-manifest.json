@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/CreditCards/static/css/main.0b5e2427.css",
-    "main.js": "/CreditCards/static/js/main.0927631f.js",
+    "main.css": "/CreditCards/static/css/main.16652c92.css",
+    "main.js": "/CreditCards/static/js/main.155d1671.js",
     "static/media/amex_logo.svg": "/CreditCards/static/media/amex_logo.e3d94ed28f32c062f8648c1cd6d59a16.svg",
     "static/media/discover_logo.svg": "/CreditCards/static/media/discover_logo.4c3ebd054bfd21ff0910ac8816b2db04.svg",
     "static/media/nfc.svg": "/CreditCards/static/media/nfc.049efbeda64d1a5b070abeb929792f33.svg",
@@ -18,11 +18,11 @@
     "index.html": "/CreditCards/index.html",
     "static/media/select-arrow-down.svg": "/CreditCards/static/media/select-arrow-down.fc538e440892d7e5f599.svg",
     "static/media/select-arrow-up.svg": "/CreditCards/static/media/select-arrow-up.8104d5360a206cd50fb3.svg",
-    "main.0b5e2427.css.map": "/CreditCards/static/css/main.0b5e2427.css.map",
-    "main.0927631f.js.map": "/CreditCards/static/js/main.0927631f.js.map"
+    "main.16652c92.css.map": "/CreditCards/static/css/main.16652c92.css.map",
+    "main.155d1671.js.map": "/CreditCards/static/js/main.155d1671.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b5e2427.css",
-    "static/js/main.0927631f.js"
+    "static/css/main.16652c92.css",
+    "static/js/main.155d1671.js"
   ]
 }
